@@ -11,7 +11,7 @@ export class AppComponent implements OnInit,AfterViewInit {
   ngOnInit() { 
 
   }
-
+// asfsdf
   ngAfterViewInit() { 
    // this.loadScripts();
   }
